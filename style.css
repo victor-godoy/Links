@@ -1,0 +1,48 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+}
+h2 {
+  font-weight: bold;
+  font-size: 40px;
+  color: seagreen;
+}
+a {
+  text-decoration: none;
+}
+p {
+  font-size: 20px;
+}
+.conteudo {
+  display: block;
+  width: 250px;
+  height: 250px;
+  margin: 10px 10px 10px 10px;
+  padding: 10px;
+}
+.conteudo h1 {
+  text-align: center;
+}
+.conteudo a {
+  display: block;
+  margin: 50px auto;
+  text-align: center;
+  text-decoration: none;
+  color: #38cd51;
+  font-size: 24px;
+}
+
+/* rj */
+.vermelho {
+  color: darkred;
+}
+
+.azul {
+  color: darkblue;
+}
+
+/* sp */
